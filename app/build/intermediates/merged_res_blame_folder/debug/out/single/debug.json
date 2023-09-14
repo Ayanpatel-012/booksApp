@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\drawable_black_bg.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\drawable\\black_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\drawable_white_bg.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\drawable\\white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\layout_book_list_item.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\layout\\book_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\drawable_fav_uncheck.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\drawable\\fav_uncheck.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\drawable_ic_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\drawable\\ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\drawable_fav_check.png.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\drawable\\fav_check.png"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dailyrounds.booksapp-merged_res-42:/layout_activity_home.xml.flat",
+        "source": "com.dailyrounds.booksapp-main-44:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-merged_res-42:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\ACER\\.gradle\\daemon\\7.5\\com.dailyrounds.booksapp-main-44:\\layout\\activity_home.xml"
+    }
+]
